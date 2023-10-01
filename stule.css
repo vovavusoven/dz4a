@@ -1,0 +1,131 @@
+.container {
+    width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+  
+  }
+  .header{
+      display: flex;
+      justify-content:space-between;
+      flex-wrap: wrap;
+      width: 100%;
+  }
+  .ramda_js {
+      color: #000;
+      text-align: left;
+      font-family: Roboto;
+      font-size: 80px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      margin-bottom: 20px;
+  }
+  .home_padh{
+      text-align: center;
+      background-color: #35444F;
+      color: #FFF;
+      font-family: Roboto;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding: 20px;
+  
+  }
+  .home_padh a {
+      text-decoration:none;
+      padding: 10px;
+      color: #FFF;
+      font-family: Roboto;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      
+  }
+  .logo{
+      width: 100%;
+  }
+  .br-0_5 {
+      border-right: 0.5px solid white;
+  }
+  .bl-0_5{
+      border-left: 0.5px solid white;
+  }
+  .aside {
+      display: flex;
+      padding-top: 40px;
+      margin-bottom: 50px;
+      color:#35444F ;
+  }
+  .ramda {
+      font-family: Roboto;
+      font-size: 27px;
+      font-weight: 400;
+      line-height: 27px;
+      letter-spacing: 0px;
+      text-align: left;
+      border: 3px solid grey;
+      text-align: center;
+      padding: 30px;
+      color: #485863;
+      margin-right: 40px;
+      margin-top: 0px;
+  }
+  .main {
+      font-family: Roboto;
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 24px;
+      letter-spacing: 0px;
+      text-align: 4px left;
+      
+
+  }
+  .p {
+      text-align: center;
+      word-break: break-all;
+      width: 100%;
+  }
+  .img{
+      width: -webkit-fill-available;
+  }
+  li{
+    padding: 20px;
+  }
+  aside li a { color: #35444F;  font-size: 27px;
+  text-decoration: none; }
+  .footer{    
+      display: flexbox;
+      text-align: center;
+      background-color:#363B3E;
+      font-family: Roboto;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding: 20px;
+      width: 100%;
+
+      
+  }
+  .footer a {
+      text-decoration:none;
+      padding: 10px;
+      color:#FFFFFFCC;
+      font-family: Roboto;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      text-align: center;
+
+  }
+  .footer a:hover{
+      color: #3181A6;
+  }
+  .ramda a:hover {
+      color: #3181A6;
+  }
+  .home_padh a:hover {
+      color: #3181A6;}
